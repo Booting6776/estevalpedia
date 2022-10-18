@@ -4,7 +4,7 @@ title: Estevalpedia
 
 Dit is de homepage
 
-[[Lore]]
+[[History]]
 <br>
 [[Pantheon]]
 <br>
