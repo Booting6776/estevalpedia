@@ -1,1 +1,1 @@
-[[Geography/PalamorIsles]]
+[[Geography/Palamor Isles]]
