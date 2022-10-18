@@ -1,1 +1,1 @@
-[[Geography/Palamor Isles/Free City of Taryar]]
+[[Palamor Isles/Free City of Taryar]]
