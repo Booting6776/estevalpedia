@@ -11,3 +11,5 @@ Dit is de homepage
 [[Races]]
 <br>
 [[Geography]]
+<br>
+[[Characters]]
