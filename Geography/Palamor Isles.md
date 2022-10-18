@@ -1,1 +1,1 @@
-[[free city of Taryar]]
+[[Free City of Taryar]]
