@@ -9,3 +9,8 @@
   ul {
     list-style-type: square;
   }
+
+body {
+    background-image: url("parchment.jpg");
+    background-color: #cccccc;
+   }
