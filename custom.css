@@ -1,0 +1,11 @@
+.main-content {
+    max-width: 90%;
+  }
+  
+  #wiki-sidebar {
+    width: 17%;
+  }
+  
+  ul {
+    list-style-type: square;
+  }
